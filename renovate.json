@@ -1,7 +1,3 @@
 {
-  "extends": ["github>renovate-tests/presets-1:child"],
-  "packageRules": [{
-    "packagePatterns": ["*"],
-    "semanticCommits": false
-  }]
+  "extends": ["github>whitesource/merge-confidence:beta"]
 }
