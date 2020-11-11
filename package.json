@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "chalk": "2.0.0",
+    "chalk": "4.1.0",
     "left-pad": "1.0.0",
     "react": "16.0.0"
   }
